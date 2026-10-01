@@ -2,6 +2,7 @@ wealth_backend/.env
 wealth_backend/node_modules
 
 wealth_frontend/node_modules
+wealth_frontend/.env
 
 wealth_python-service/.env
 wealth_python-service/venv

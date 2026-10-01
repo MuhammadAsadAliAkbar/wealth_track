@@ -1,8 +1,8 @@
-backend/.env
-backend/node_modules
+wealth_backend/.env
+wealth_backend/node_modules
 
-frontend/node_modules
+wealth_frontend/node_modules
 
-python-service/.env
-python-service/venv
-python-service/app/__pycache__
+wealth_python-service/.env
+wealth_python-service/venv
+wealth_python-service/app/__pycache__

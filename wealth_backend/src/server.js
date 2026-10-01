@@ -45,7 +45,7 @@ app.use('/api/assets', require('./routes/assets'));
 app.use('/api/categories', require('./routes/categories'));
 
 // Health check
-app.get('/api/health', (req, res) => {
+app.get('/', (req, res) => {
   res.json({ success: true, message: 'Budget Assets API is running' });
 });
 
